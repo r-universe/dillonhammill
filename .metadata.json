@@ -1,0 +1,15 @@
+[
+  {
+    "package": "DataEditR",
+    "oncran": true
+  },
+  {
+    "package": "HeatmapR"
+  },
+  {
+    "package": "CytoExploreRData"
+  },
+  {
+    "package": "CytoExploreR"
+  }
+]
