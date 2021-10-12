@@ -18,8 +18,3 @@
 	url = https://github.com/DillonHammill/CytoExploreRData
 	shallow = true
 	registered = true
-[submodule "CytoExploreR"]
-	path = CytoExploreR
-	url = https://github.com/DillonHammill/CytoExploreR
-	shallow = true
-	registered = true
