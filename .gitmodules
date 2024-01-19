@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/dillonhammill/universe
-	shallow = true
 	branch = HEAD
-[submodule "DataEditR"]
-	path = DataEditR
-	url = https://github.com/DillonHammill/DataEditR
-	shallow = true
-	registered = true
-[submodule "HeatmapR"]
-	path = HeatmapR
-	url = https://github.com/DillonHammill/HeatmapR
-	shallow = true
-	registered = true
-[submodule "CytoExploreRData"]
-	path = CytoExploreRData
-	url = https://github.com/DillonHammill/CytoExploreRData
-	shallow = true
-	registered = true
 [submodule "CytoExploreR"]
 	path = CytoExploreR
 	url = https://github.com/DillonHammill/CytoExploreR
-	shallow = true
-	registered = true
+[submodule "CytoExploreRData"]
+	path = CytoExploreRData
+	url = https://github.com/DillonHammill/CytoExploreRData
+[submodule "DataEditR"]
+	path = DataEditR
+	url = https://github.com/DillonHammill/DataEditR
+[submodule "HeatmapR"]
+	path = HeatmapR
+	url = https://github.com/DillonHammill/HeatmapR
