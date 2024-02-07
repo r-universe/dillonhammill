@@ -1,16 +1,11 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/dillonhammill/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "CytoExploreR"]
-	path = CytoExploreR
-	url = https://github.com/DillonHammill/CytoExploreR
 [submodule "CytoExploreRData"]
 	path = CytoExploreRData
 	url = https://github.com/DillonHammill/CytoExploreRData
+	registered = false
 [submodule "DataEditR"]
 	path = DataEditR
-	url = https://github.com/DillonHammill/DataEditR
-[submodule "HeatmapR"]
-	path = HeatmapR
-	url = https://github.com/DillonHammill/HeatmapR
+	url = https://github.com/dillonhammill/dataeditr
