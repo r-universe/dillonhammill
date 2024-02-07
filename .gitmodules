@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "CytoExploreRData"]
-	path = CytoExploreRData
-	url = https://github.com/DillonHammill/CytoExploreRData
-	registered = false
 [submodule "DataEditR"]
 	path = DataEditR
 	url = https://github.com/dillonhammill/dataeditr
